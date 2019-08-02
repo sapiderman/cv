@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Budhi's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Budhi Widagdo
+I code, sometimes it even works
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
