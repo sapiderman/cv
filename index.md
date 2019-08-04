@@ -19,20 +19,20 @@ title: Budhi Widagdo
 ## Experiences
 
 **CTO, PT. NSS Focus**  
-*Small startup specializing in customer focused smart cards development.  
-*Developed competitive products for 2G, 3G, LTE and IoT applications.  
-*Liase with customers and synthesize customer needs into products.  
+1. Small startup specializing in customer focused smart cards development.  
+2. Developed competitive products for 2G, 3G, LTE and IoT applications.  
+3. Liase with customers and synthesize customer needs into products.  
 
 **Team Lead, Oberthur Technologies**  
-*Led the platform team to develop smart card platforms and applications for 2G, 3G and LTE networks.  
-*Developed hardware API, implemented and helped design kernels, anti-tearing file systems and self updating OS.  
-*Optimized, streamlined card loading and personalization during production.  
-*Worked with Javacards, various roaming, vendor specific and 3GPP network specifications.  
+1. Led the platform team to develop smart card platforms and applications for 2G, 3G and LTE networks.  
+2. Developed hardware API, implemented and helped design kernels, anti-tearing file systems and self updating OS.  
+3. Optimized, streamlined card loading and personalization during production.  
+4. Worked with Javacards, various roaming, vendor specific and 3GPP network specifications.  
 
 **Design Engineer, PT. Zetalink Technologies**  
-*Embedded design speacialist, created applications on microcontrollers.  
-*Optimized signal to noise ratios, tuned FM duplex transmitters, and echo cancellations circuits.  
-*Built and developed filters, single wire networks, anti-collision protocols.  
+1. Embedded design speacialist, created applications on microcontrollers.  
+2. Optimized signal to noise ratios, tuned FM duplex transmitters, and echo cancellations circuits.  
+3. Built and developed filters, single wire networks, anti-collision protocols.  
 
 
 ## Education
