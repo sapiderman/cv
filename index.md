@@ -4,19 +4,19 @@ title: Budhi Widagdo
 ---
 # Budhi Widagdo
 <div id="email">
-<a budhi.widagdo_at_protonmail_dot_com</a>
+<a href="budhi.widagdo_at_protonmail_dot_com">budhi.widagdo_at_protonmail_dot_com</a>
 </div>
 
 ## Currently
 
-__Digital Banking Solutions, PT Bank BTPN__  
+__Digital Banking Solutions, Jenius, PT Bank BTPN__  
 * Works in the squad that develops and deploys wallet and payment features in a banking application.  
 * Monitor service performance using new relic.  
 * CI/CD using docker, openshift and jenkins.  
 
 ## Experiences
 
-__CTO, PT. NSS Focus__  
+__CTO, NSS Focus Pte Ltd__  
 * Small startup specializing in customer focused smart cards development.  
 * Developed competitive products for 2G, 3G, LTE and IoT applications.  
 * Liase with customers and synthesize customer needs into products.  
@@ -36,8 +36,8 @@ __Design Engineer, PT. Zetalink Technologies__
 __Renssalaer Polytechnic Institute, Troy, NY.__  
 BSc Computer System Engineering
 
-<!-- ### Footer
+### updated: {{ page.updated }}
 
-Last updated: 20190808 -->
+{% include short-links.html %}
 
 
