@@ -183,11 +183,13 @@ strong {
 	font-weight: bold;
 }
 
-#address {
-	display: none;
+.black {
+	color: #000000;
 }
 
-
+.blue {
+	color: #0a66c2;
+}
 
 /*
 @media only screen and (max-width: 480px) {

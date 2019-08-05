@@ -3,8 +3,9 @@
 <head>
   <meta charset=utf-8 />
   <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
-  <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
-  <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
+  <link href="{{ '/styles/' | append: site.style | append: '-screen.css' | relative_url }}" type="text/css" rel="stylesheet" media="screen">
+  <link href="{{ '/styles/' | append: site.style | append: '-print.css' | relative_url }}" type="text/css" rel="stylesheet" media="print">
+  <script defer src="{{ '/styles/fontawesome.js' | relative_url }}"></script>
 </head>
 <body>
   <div id="main">
