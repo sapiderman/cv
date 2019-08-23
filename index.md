@@ -9,11 +9,11 @@ Passionate software developer looking for new challenges in companies with the n
 
 ## Currently
 
-### Digital Banking Solutions 
+### Backend Developer 
 `2018 - present`
 __[Jenius, PT Bank BTPN](https://jenius.com)__, Jakarta  
 * Works in the squad that develops and deploys e-wallet and payment features in the Jenius banking application.  
-* Monitor service performance using new relic.  
+* Monitor service performance using new relic, troubleshoot production issues.
 * Deliver backend services using CI/CD with docker, openshift and jenkins.
 
 ## Experiences
@@ -24,7 +24,7 @@ __[NSS Focus Pte Ltd](https://nssfocus.com)__, Jakarta
 * Small Singapore startup specializing in customer focused smart cards development.  
 * Developed competitive products for 2G, 3G, LTE and IoT applications.  
 * Designed and developed kernel and system architecture with focus on speed and modularity.
-* Liased with customers and synthesize customer needs into products.  
+* Liase with customers and synthesize customer needs into products.  
 
 ### Team Lead
 `2007 - 2012`
