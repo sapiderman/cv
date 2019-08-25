@@ -8,7 +8,7 @@ updated: 20190811
 
 ## Currently
 
-### Digital Banking Solutions 
+### Backend Developer 
 `2018 - present`
 __[Jenius, PT Bank BTPN](https://jenius.com)__, Jakarta  
 * Works in the squad that develops and deploys e-wallet and payment features in a the Jenius banking application.  
