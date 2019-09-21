@@ -55,6 +55,11 @@ __[Renssalaer Polytechnic Institute](https://rpi.edu)__, Troy, NY
 `May 1998`
 BSc Computer System Engineering
 
+## Certification
+
+__[BSMR] Risk Management, Level 1__, Jakarta
+`November 11 2018`
+
 ## Activities
 
 * Aikido, Yudansha ranking from Aikikai Hombu Dojo in 2012
