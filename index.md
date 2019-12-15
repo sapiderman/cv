@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Budhi Widagdo
-updated: 20190821
+updated: 20191215
 ---
 # Budhi Widagdo
 Passionate software developer looking for new challenges in companies with the next disruptive technology
@@ -9,14 +9,19 @@ Passionate software developer looking for new challenges in companies with the n
 
 ## Currently
 
+### Software Developer 
+`Sept 2019 - Present`
+__[Hyperjump](https://jyperjump.tech)__, Jakarta  
+* Hyperjump aims to build and commercialize open-source tools to help companies streamline, simplify, and secure its devops practices. 
+
+## Experiences
+
 ### Backend Developer 
-`2018 - present`
+`2018 - Octo 2019`
 __[Jenius, PT Bank BTPN](https://jenius.com)__, Jakarta  
 * Works in the squad that develops and deploys e-wallet and payment features in the Jenius banking application.  
 * Monitor service performance using new relic, troubleshoot production issues.
 * Deliver backend services using CI/CD with docker, openshift and jenkins.
-
-## Experiences
 
 ### CTO
 `2012 - 2017`
